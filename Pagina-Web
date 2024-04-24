@@ -36,6 +36,26 @@
                 <a href="#">25% de Descuento</a>
             </div>
         </section>
+            <!-- Sección de Pincipal: -->
+html
+<main>
+    <section>
+        <!-- Contenido de envío, pagos, garantía, y tienda -->
+    </section>
+
+    <section>
+        <!-- Mejores Categorías -->
+    </section>
+
+    <div>
+        <!-- Quiénes somos -->
+    </div>
+
+    <section>
+        <!-- Mejores Productos -->
+    </section>
+</main>
+
              
 <footer>
     <section>
