@@ -27,7 +27,16 @@
                     </form>
                 </nav>
             </div>
-        </header>        
+        </header>  
+            <!-- Sección de Promoción: -->
+        <section>
+            <div>
+                <p>7-14 de Mayo</p>
+                <h2>Semana <br> Logitech</h2>
+                <a href="#">25% de Descuento</a>
+            </div>
+        </section>
+             
 <footer>
     <section>
         <!-- Información de la empresa y enlaces -->
